@@ -28,6 +28,75 @@ tasks:
     run_tests:
         options:
             required_org_code_coverage_percent: 75
+    
+    # Packaging Tasks
+    create_package_version:
+        group: "packaging"
+        description: "Creates a new package version"
+        class_path: cumulusci.tasks.create_package_version.CreatePackageVersion
+        options:
+            org_dependent: True
+
+    # Digital Experience Setup Tasks
+    create_experience:
+        group: "experience"
+        description: "Creates a Digital Experience site with the 'Customer Service' template"
+        class_path: cumulusci.tasks.salesforce.CreateCommunity
+        options:
+            template: Build Your Own
+            name: TXPOST Experience
+            url_path_prefix: txpost
+            timeout: 60000
+            skip_existing: true
+
+    deploy_experience_cloud:
+        group: "experience"
+        description: Deploys the post-install configuration emulating a customer-created Experience Cloud
+        class_path: cumulusci.tasks.salesforce.Deploy
+        options:
+            path: unpackaged/config/experience
+
+    publish_experience:
+        group: "experience"
+        description: Publishes an Experience Site in the target org using the Connect API
+        class_path: cumulusci.tasks.salesforce.PublishCommunity
+        options:
+            name: TXPOST Experience
+
+    create_experience_owner:
+        group: "experience"
+        description: POSTs json files to the Composite REST API endpoint.
+        class_path: cumulusci.tasks.salesforce.composite.CompositeApi
+        options:
+            data_files:
+                - "unpackaged/config/users/owner.json"
+
+    create_experience_user:
+        group: "experience"
+        description: POSTs json files to the Composite REST API endpoint.
+        class_path: cumulusci.tasks.salesforce.composite.CompositeApi
+        options:
+            data_files:
+                - "unpackaged/config/users/users.json"
+    
+    add_experience_login_button:
+        group: "experience"
+        description: Adds the "Log in to Experience as User" button to the Standard Contact layout
+        class_path: cumulusci.tasks.metadata_etl.layouts.AddRecordPlatformActionListItem
+        options:
+            api_names: "Contact-Contact Layout"
+            action_name: LoginToNetworkAsUser
+            action_type: StandardButton
+            place_first: True
+
+    add_network_members:
+        group: "experience"
+        description: "Create a NetworkMemberGroup record for the community user profile"
+        class_path: cumulusci.tasks.salesforce.network_member_group.CreateNetworkMemberGroups
+        options:
+            network_name: TXPOST Experience
+            profile_names:
+                - Customer Community User
 
 flows:
     # Customize Standard CumulusCI flow for creating development orgs

@@ -1,7 +1,19 @@
 {
   "orgName": "TXPOST-Foundations - Dev Org",
   "edition": "Developer",
+  "features":[
+    "Communities",
+    "DebugApex",
+    "RecordTypes"
+  ],
   "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true,
+      "enableOotbProfExtUserOpsEnable": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
