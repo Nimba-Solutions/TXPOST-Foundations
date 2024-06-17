@@ -31,10 +31,10 @@ tasks:
 
 flows:
     # Customize Standard CumulusCI flow for creating development orgs
-    # dev_org: 
-    #     steps:
-    #         2.9:
-    #             flow: make_experience
+    dev_org: 
+        steps:
+            2.9:
+                flow: make_experience
     
     ci_beta: 
         steps:
