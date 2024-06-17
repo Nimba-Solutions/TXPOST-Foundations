@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "f2267d83-d0a5-4dfc-83c2-9b167ff9bda6",
+  "label" : "Report Detail",
+  "pageAccess" : "UseParent",
+  "routeType" : "detail-00O",
+  "type" : "route",
+  "urlPrefix" : "report"
+}

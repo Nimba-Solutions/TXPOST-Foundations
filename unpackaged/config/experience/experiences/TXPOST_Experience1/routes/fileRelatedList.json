@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "c9f73b4b-03cb-4960-94d9-e6af716c8629",
+  "label" : "File Related List",
+  "pageAccess" : "UseParent",
+  "routeType" : "relatedlist-069",
+  "type" : "route",
+  "urlPrefix" : "contentdocument"
+}

@@ -1,0 +1,9 @@
+{
+  "appPageId" : "53b12a70-19db-429e-a19a-ea1e6200b6fe",
+  "id" : "f201aeaa-79f0-45d0-a899-309c47e778eb",
+  "label" : "Login",
+  "pageAccess" : "UseParent",
+  "routeType" : "login-home",
+  "type" : "route",
+  "urlPrefix" : ""
+}

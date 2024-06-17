@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "71edeed6-11e3-467d-a724-47954604cce2",
+  "label" : "Dashboard List",
+  "pageAccess" : "UseParent",
+  "routeType" : "list-01Z",
+  "type" : "route",
+  "urlPrefix" : "dashboard"
+}

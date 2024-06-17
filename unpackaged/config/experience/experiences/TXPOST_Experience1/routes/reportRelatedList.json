@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "7abab9f9-f1a4-4c49-965e-76b77380f6cd",
+  "label" : "Report Related List",
+  "pageAccess" : "UseParent",
+  "routeType" : "relatedlist-00O",
+  "type" : "route",
+  "urlPrefix" : "report"
+}

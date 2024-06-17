@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "9e0089de-9aa9-49a2-a316-94c328359f33",
+  "label" : "Case Related List",
+  "pageAccess" : "UseParent",
+  "routeType" : "relatedlist-500",
+  "type" : "route",
+  "urlPrefix" : "case"
+}

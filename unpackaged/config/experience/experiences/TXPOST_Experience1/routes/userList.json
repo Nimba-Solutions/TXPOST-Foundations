@@ -1,0 +1,9 @@
+{
+  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
+  "id" : "bc14911d-b477-4506-99e7-fe228daffd0b",
+  "label" : "User List",
+  "pageAccess" : "UseParent",
+  "routeType" : "list-005",
+  "type" : "route",
+  "urlPrefix" : "profile"
+}
