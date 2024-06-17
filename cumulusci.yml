@@ -20,7 +20,7 @@ tasks:
             options:
                 outputdir: robot/TXPOST-Foundations/results
 
-    robot_testdoc:
+    robot_testdoc:  
         options:
             path: robot/TXPOST-Foundations/tests
             output: robot/TXPOST-Foundations/doc/TXPOST-Foundations_tests.html
@@ -28,3 +28,60 @@ tasks:
     run_tests:
         options:
             required_org_code_coverage_percent: 75
+
+flows:
+    # Customize Standard CumulusCI flow for creating development orgs
+    dev_org: 
+        steps:
+            2.9:
+                flow: make_experience
+    
+    ci_beta: 
+        steps:
+            1.9:
+                flow: deploy_experience
+
+    load_data:
+        steps:
+            3:
+                task: load_sample_data
+                options:
+                    drop_missing_schema: True
+                    ignore_row_errors: True
+                    dataset: experience_seed
+
+    make_experience:
+        steps:
+            1:
+                task: create_experience
+            2: 
+                flow: load_data
+            3:
+                task: create_experience_owner
+            4:
+                task: update_admin_profile
+            5:
+                task: deploy_experience_cloud
+            6:
+                task: update_admin_profile
+            7:
+                task: create_experience_user
+            8:
+                task: publish_experience
+            9:
+                task: add_experience_login_button
+            10:
+                task: add_network_members
+            11:
+                task: snapshot_changes
+
+    deploy_experience:
+        steps:
+            1:
+                task: create_experience
+            2: 
+                task: update_admin_profile
+            3:
+                task: deploy_experience_cloud
+            4:
+                task: publish_experience

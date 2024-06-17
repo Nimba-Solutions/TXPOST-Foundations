@@ -1,0 +1,134 @@
+# Editing this file is usually not recommended because it will
+# be overwritten the next time you re-capture this data.
+#
+# You can change this file's contents permanently by creating a
+# .load.yml file and re-capturing:
+#
+#  https://cumulusci.readthedocs.io/en/stable/data.html#extracting-and-loading-sample-datasets
+Insert DandBCompany:
+  sf_object: DandBCompany
+  table: DandBCompany
+  fields:
+  - DunsNumber
+  - Name
+Insert Discipline__c:
+  sf_object: Discipline__c
+  table: Discipline__c
+Insert OperatingHours:
+  sf_object: OperatingHours
+  table: OperatingHours
+  fields:
+  - Name
+  - TimeZone
+Insert Producer_Organization__c:
+  sf_object: Producer_Organization__c
+  table: Producer_Organization__c
+Insert Individual:
+  sf_object: Individual
+  table: Individual
+  fields:
+  - LastName
+Insert Account:
+  sf_object: Account
+  table: Account
+  fields:
+  - Name
+  - Description
+  - AccountNumber
+  - Phone
+  - Rating
+  - Site
+  - AccountSource
+  - Type
+  - Industry
+  - AnnualRevenue
+  - BillingPostalCode
+  - BillingStreet
+  - BillingState
+  - ShippingCity
+  - ShippingCountry
+  - ShippingState
+  - ShippingStreet
+  - ShippingPostalCode
+  - YearStarted
+  - Website
+  - Fax
+  - BillingCity
+  - BillingCountry
+  - BillingGeocodeAccuracy
+  - BillingLatitude
+  - BillingLongitude
+  - Brand__c
+  - CleanStatus
+  - DunsNumber
+  - Email__c
+  - Jigsaw
+  - NaicsCode
+  - NaicsDesc
+  - NumberOfEmployees
+  - Organization_Description__c
+  - Organization_Website__c
+  - Ownership
+  - ShippingGeocodeAccuracy
+  - ShippingLatitude
+  - ShippingLongitude
+  - Sic
+  - SicDesc
+  - Slogan__c
+  - TickerSymbol
+  - Tradestyle
+Insert Contact:
+  sf_object: Contact
+  table: Contact
+  fields:
+  - AssistantPhone
+  - Birthdate
+  - Phone
+  - CleanStatus
+  - Description
+  - Jigsaw
+  - Department
+  - DoNotCall
+  - Email
+  - EmailBouncedDate
+  - EmailBouncedReason
+  - HasOptedOutOfEmail
+  - HasOptedOutOfFax
+  - FirstName
+  - HomePhone
+  - LastName
+  - LeadSource
+  - MailingCity
+  - MailingCountry
+  - MailingState
+  - MailingStreet
+  - MailingPostalCode
+  - Title
+  - OtherStreet
+  - OtherState
+  - OtherPhone
+  - Salutation
+  - AssistantName
+  - Fax
+  - MailingGeocodeAccuracy
+  - MailingLatitude
+  - MailingLongitude
+  - MobilePhone
+  - OtherCity
+  - OtherCountry
+  - OtherGeocodeAccuracy
+  - OtherLatitude
+  - OtherLongitude
+  - OtherPostalCode
+  - Privacy_Policy_Terms__c
+  lookups:
+    AccountId:
+      table: Account
+      key_field: AccountId
+    IndividualId:
+      table: Individual
+      key_field: IndividualId
+    ReportsToId:
+      table: Contact
+      key_field: ReportsToId
+      after: Insert Contact
