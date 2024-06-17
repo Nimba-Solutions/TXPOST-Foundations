@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Right Now</fullName>
+        <default>false</default>
+        <label>Right Now</label>
+    </customValue>
+    <customValue>
+        <fullName>Plan To Improve This Year</fullName>
+        <default>false</default>
+        <label>Plan To Improve This Year</label>
+    </customValue>
+    <customValue>
+        <fullName>Next Year</fullName>
+        <default>false</default>
+        <label>Next Year</label>
+    </customValue>
+    <description>Used in the TX Standards For High Quality Afterschool assessments</description>
+    <masterLabel>Plan To Improve</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

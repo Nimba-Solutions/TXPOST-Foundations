@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Abilene ISD</fullName>
+        <default>false</default>
+        <label>Abilene ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Aldine ISD</fullName>
+        <default>false</default>
+        <label>Aldine ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Alief ISD</fullName>
+        <default>false</default>
+        <label>Alief ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Allen ISD</fullName>
+        <default>false</default>
+        <label>Allen ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Alvin ISD</fullName>
+        <default>false</default>
+        <label>Alvin ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Amarillo ISD</fullName>
+        <default>false</default>
+        <label>Amarillo ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Angleton ISD</fullName>
+        <default>false</default>
+        <label>Angleton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Aransas County ISD</fullName>
+        <default>false</default>
+        <label>Aransas County ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Arlington ISD</fullName>
+        <default>false</default>
+        <label>Arlington ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Atlanta ISD</fullName>
+        <default>false</default>
+        <label>Atlanta ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Austin ISD</fullName>
+        <default>false</default>
+        <label>Austin ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Bartlett ISD</fullName>
+        <default>false</default>
+        <label>Bartlett ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Bastrop ISD</fullName>
+        <default>false</default>
+        <label>Bastrop ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Beaumont ISD</fullName>
+        <default>false</default>
+        <label>Beaumont ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Belton ISD</fullName>
+        <default>false</default>
+        <label>Belton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Birdville ISD</fullName>
+        <default>false</default>
+        <label>Birdville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Boles ISD</fullName>
+        <default>false</default>
+        <label>Boles ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Brady ISD</fullName>
+        <default>false</default>
+        <label>Brady ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Brazosport ISD</fullName>
+        <default>false</default>
+        <label>Brazosport ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Brownsville ISD</fullName>
+        <default>false</default>
+        <label>Brownsville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Bryan ISD</fullName>
+        <default>false</default>
+        <label>Bryan ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Burleson ISD</fullName>
+        <default>false</default>
+        <label>Burleson ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Canyon ISD</fullName>
+        <default>false</default>
+        <label>Canyon ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Carrollton-Farmers Branch ISD</fullName>
+        <default>false</default>
+        <label>Carrollton-Farmers Branch ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Chilton ISD</fullName>
+        <default>false</default>
+        <label>Chilton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Clear Creek ISD</fullName>
+        <default>false</default>
+        <label>Clear Creek ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Clint ISD</fullName>
+        <default>false</default>
+        <label>Clint ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Coleman ISD</fullName>
+        <default>false</default>
+        <label>Coleman ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>College Station ISD</fullName>
+        <default>false</default>
+        <label>College Station ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Columbia-Brazoria ISD</fullName>
+        <default>false</default>
+        <label>Columbia-Brazoria ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Comal ISD</fullName>
+        <default>false</default>
+        <label>Comal ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Commerce ISD</fullName>
+        <default>false</default>
+        <label>Commerce ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Conroe ISD</fullName>
+        <default>false</default>
+        <label>Conroe ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Coppell ISD</fullName>
+        <default>false</default>
+        <label>Coppell ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Corpus Christi ISD</fullName>
+        <default>false</default>
+        <label>Corpus Christi ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Cranfills Gap ISD</fullName>
+        <default>false</default>
+        <label>Cranfills Gap ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Crowley ISD</fullName>
+        <default>false</default>
+        <label>Crowley ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Cypress-Fairbanks ISD</fullName>
+        <default>false</default>
+        <label>Cypress-Fairbanks ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Daingerfield-Lonestar ISD</fullName>
+        <default>false</default>
+        <label>Daingerfield-Lonestar ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Dallas ISD</fullName>
+        <default>false</default>
+        <label>Dallas ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Dawson ISD</fullName>
+        <default>false</default>
+        <label>Dawson ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Deer Park ISD</fullName>
+        <default>false</default>
+        <label>Deer Park ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Del Valle ISD</fullName>
+        <default>false</default>
+        <label>Del Valle ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Denton ISD</fullName>
+        <default>false</default>
+        <label>Denton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>DeSoto ISD</fullName>
+        <default>false</default>
+        <label>DeSoto ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Dickinson ISD</fullName>
+        <default>false</default>
+        <label>Dickinson ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Dimmitt ISD</fullName>
+        <default>false</default>
+        <label>Dimmitt ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Donna ISD</fullName>
+        <default>false</default>
+        <label>Donna ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Duncanville ISD</fullName>
+        <default>false</default>
+        <label>Duncanville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Eagle Mountain-Saginaw ISD</fullName>
+        <default>false</default>
+        <label>Eagle Mountain-Saginaw ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Eagle Pass ISD</fullName>
+        <default>false</default>
+        <label>Eagle Pass ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>East Central ISD</fullName>
+        <default>false</default>
+        <label>East Central ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>East Chambers ISD</fullName>
+        <default>false</default>
+        <label>East Chambers ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Ector County ISD</fullName>
+        <default>false</default>
+        <label>Ector County ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Edgewood ISD</fullName>
+        <default>false</default>
+        <label>Edgewood ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Edgewood ISD (Bexar County)</fullName>
+        <default>false</default>
+        <label>Edgewood ISD (Bexar County)</label>
+    </customValue>
+    <customValue>
+        <fullName>Edinburg CISD</fullName>
+        <default>false</default>
+        <label>Edinburg CISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Edinburg Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Edinburg Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Elgin ISD</fullName>
+        <default>false</default>
+        <label>Elgin ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>El Paso ISD</fullName>
+        <default>false</default>
+        <label>El Paso ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Evant ISD</fullName>
+        <default>false</default>
+        <label>Evant ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Florence ISD</fullName>
+        <default>false</default>
+        <label>Florence ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Floydada ISD</fullName>
+        <default>false</default>
+        <label>Floydada ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Fort Bend ISD</fullName>
+        <default>false</default>
+        <label>Fort Bend ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Fort Worth ISD</fullName>
+        <default>false</default>
+        <label>Fort Worth ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Freer ISD</fullName>
+        <default>false</default>
+        <label>Freer ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Frisco ISD</fullName>
+        <default>false</default>
+        <label>Frisco ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Galena Park ISD</fullName>
+        <default>false</default>
+        <label>Galena Park ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Galveston ISD</fullName>
+        <default>false</default>
+        <label>Galveston ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Garland ISD</fullName>
+        <default>false</default>
+        <label>Garland ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>George I. Sanchez Charter</fullName>
+        <default>false</default>
+        <label>George I. Sanchez Charter</label>
+    </customValue>
+    <customValue>
+        <fullName>Georgetown ISD</fullName>
+        <default>false</default>
+        <label>Georgetown ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Gonzales ISD</fullName>
+        <default>false</default>
+        <label>Gonzales ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Goose Creek Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Goose Creek Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Grand Prairie ISD</fullName>
+        <default>false</default>
+        <label>Grand Prairie ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Grapevine-Colleyville ISD</fullName>
+        <default>false</default>
+        <label>Grapevine-Colleyville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Greenville ISD</fullName>
+        <default>false</default>
+        <label>Greenville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Groesbeck ISD</fullName>
+        <default>false</default>
+        <label>Groesbeck ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Hale Center ISD</fullName>
+        <default>false</default>
+        <label>Hale Center ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Hamilton ISD</fullName>
+        <default>false</default>
+        <label>Hamilton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Harlandale ISD</fullName>
+        <default>false</default>
+        <label>Harlandale ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Harlingen Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Harlingen Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Harlingen ISD</fullName>
+        <default>false</default>
+        <label>Harlingen ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Hays Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Hays Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Hooks ISD</fullName>
+        <default>false</default>
+        <label>Hooks ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Houston ISD</fullName>
+        <default>false</default>
+        <label>Houston ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Humble ISD</fullName>
+        <default>false</default>
+        <label>Humble ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Hurst-Euless-Bedford ISD</fullName>
+        <default>false</default>
+        <label>Hurst-Euless-Bedford ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>IDEA Public Schools</fullName>
+        <default>false</default>
+        <label>IDEA Public Schools</label>
+    </customValue>
+    <customValue>
+        <fullName>Irving ISD</fullName>
+        <default>false</default>
+        <label>Irving ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Itasca ISD</fullName>
+        <default>false</default>
+        <label>Itasca ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Jim Hogg County ISD</fullName>
+        <default>false</default>
+        <label>Jim Hogg County ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Judson ISD</fullName>
+        <default>false</default>
+        <label>Judson ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Karnes City ISD</fullName>
+        <default>false</default>
+        <label>Karnes City ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Katherine Porter School</fullName>
+        <default>false</default>
+        <label>Katherine Porter School</label>
+    </customValue>
+    <customValue>
+        <fullName>Katy ISD</fullName>
+        <default>false</default>
+        <label>Katy ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Keller ISD</fullName>
+        <default>false</default>
+        <label>Keller ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Kenedy ISD</fullName>
+        <default>false</default>
+        <label>Kenedy ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Killeen ISD</fullName>
+        <default>false</default>
+        <label>Killeen ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>KIPP Houston Public Schools</fullName>
+        <default>false</default>
+        <label>KIPP Houston Public Schools</label>
+    </customValue>
+    <customValue>
+        <fullName>Klein ISD</fullName>
+        <default>false</default>
+        <label>Klein ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>LaJoya ISD</fullName>
+        <default>false</default>
+        <label>LaJoya ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>La Joya ISD</fullName>
+        <default>false</default>
+        <label>La Joya ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lamar Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Lamar Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>La Porte ISD</fullName>
+        <default>false</default>
+        <label>La Porte ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Laredo ISD</fullName>
+        <default>false</default>
+        <label>Laredo ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>La Vega ISD</fullName>
+        <default>false</default>
+        <label>La Vega ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Leander ISD</fullName>
+        <default>false</default>
+        <label>Leander ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Levelland ISD</fullName>
+        <default>false</default>
+        <label>Levelland ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lewisville ISD</fullName>
+        <default>false</default>
+        <label>Lewisville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lockhart ISD</fullName>
+        <default>false</default>
+        <label>Lockhart ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lockney ISD</fullName>
+        <default>false</default>
+        <label>Lockney ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lometa ISD</fullName>
+        <default>false</default>
+        <label>Lometa ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lorenzo ISD</fullName>
+        <default>false</default>
+        <label>Lorenzo ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Los Fresnos Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Los Fresnos Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lubbock ISD</fullName>
+        <default>false</default>
+        <label>Lubbock ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Luling ISD</fullName>
+        <default>false</default>
+        <label>Luling ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Lyford CISD</fullName>
+        <default>false</default>
+        <label>Lyford CISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Magnolia ISD</fullName>
+        <default>false</default>
+        <label>Magnolia ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mansfield ISD</fullName>
+        <default>false</default>
+        <label>Mansfield ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mathis ISD</fullName>
+        <default>false</default>
+        <label>Mathis ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>McAllen ISD</fullName>
+        <default>false</default>
+        <label>McAllen ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>McKinney ISD</fullName>
+        <default>false</default>
+        <label>McKinney ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mercedes ISD</fullName>
+        <default>false</default>
+        <label>Mercedes ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mesquite ISD</fullName>
+        <default>false</default>
+        <label>Mesquite ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mexia ISD</fullName>
+        <default>false</default>
+        <label>Mexia ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Midland ISD</fullName>
+        <default>false</default>
+        <label>Midland ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Mission Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Mission Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Moody ISD</fullName>
+        <default>false</default>
+        <label>Moody ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>New Caney ISD</fullName>
+        <default>false</default>
+        <label>New Caney ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>New Deal ISD</fullName>
+        <default>false</default>
+        <label>New Deal ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>New Summerfield ISD</fullName>
+        <default>false</default>
+        <label>New Summerfield ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>North East ISD</fullName>
+        <default>false</default>
+        <label>North East ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Northside ISD</fullName>
+        <default>false</default>
+        <label>Northside ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Northside ISD (Bexar County)</fullName>
+        <default>false</default>
+        <label>Northside ISD (Bexar County)</label>
+    </customValue>
+    <customValue>
+        <fullName>Northwest ISD</fullName>
+        <default>false</default>
+        <label>Northwest ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Palestine ISD</fullName>
+        <default>false</default>
+        <label>Palestine ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Panther Creek ISD</fullName>
+        <default>false</default>
+        <label>Panther Creek ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pasadena ISD</fullName>
+        <default>false</default>
+        <label>Pasadena ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pasedena ISD</fullName>
+        <default>false</default>
+        <label>Pasedena ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pawnee ISD</fullName>
+        <default>false</default>
+        <label>Pawnee ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pearland ISD</fullName>
+        <default>false</default>
+        <label>Pearland ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pearsall ISD</fullName>
+        <default>false</default>
+        <label>Pearsall ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pettus ISD</fullName>
+        <default>false</default>
+        <label>Pettus ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pflugerville ISD</fullName>
+        <default>false</default>
+        <label>Pflugerville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Pharr-San Juan-Alamo ISD</fullName>
+        <default>false</default>
+        <label>Pharr-San Juan-Alamo ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Plainview ISD</fullName>
+        <default>false</default>
+        <label>Plainview ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Plano ISD</fullName>
+        <default>false</default>
+        <label>Plano ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Port Aransas ISD</fullName>
+        <default>false</default>
+        <label>Port Aransas ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Private School</fullName>
+        <default>false</default>
+        <label>Private School</label>
+    </customValue>
+    <customValue>
+        <fullName>Promesa Public Schools</fullName>
+        <default>false</default>
+        <label>Promesa Public Schools</label>
+    </customValue>
+    <customValue>
+        <fullName>Promise Community School</fullName>
+        <default>false</default>
+        <label>Promise Community School</label>
+    </customValue>
+    <customValue>
+        <fullName>Quinlan ISD</fullName>
+        <default>false</default>
+        <label>Quinlan ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Raul Yzaguirre Schools for Success</fullName>
+        <default>false</default>
+        <label>Raul Yzaguirre Schools for Success</label>
+    </customValue>
+    <customValue>
+        <fullName>Richardson ISD</fullName>
+        <default>false</default>
+        <label>Richardson ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Rio Grande City Consolidated ISD</fullName>
+        <default>false</default>
+        <label>Rio Grande City Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Rio Grande City ISD</fullName>
+        <default>false</default>
+        <label>Rio Grande City ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Robstown ISD</fullName>
+        <default>false</default>
+        <label>Robstown ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Rockdale ISD</fullName>
+        <default>false</default>
+        <label>Rockdale ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Rockwall ISD</fullName>
+        <default>false</default>
+        <label>Rockwall ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Roosevelt ISD</fullName>
+        <default>false</default>
+        <label>Roosevelt ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Rosebud-Lot ISD</fullName>
+        <default>false</default>
+        <label>Rosebud-Lot ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Round Rock ISD</fullName>
+        <default>false</default>
+        <label>Round Rock ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Runge ISD</fullName>
+        <default>false</default>
+        <label>Runge ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Angelo ISD</fullName>
+        <default>false</default>
+        <label>San Angelo ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Antonio ISD</fullName>
+        <default>false</default>
+        <label>San Antonio ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Benito CISD</fullName>
+        <default>false</default>
+        <label>San Benito CISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Benito Consolidated ISD</fullName>
+        <default>false</default>
+        <label>San Benito Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Diego ISD</fullName>
+        <default>false</default>
+        <label>San Diego ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>San Felipe Del Rio Consolidated ISD</fullName>
+        <default>false</default>
+        <label>San Felipe Del Rio Consolidated ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Santa Anna ISD</fullName>
+        <default>false</default>
+        <label>Santa Anna ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Santa Maria ISD</fullName>
+        <default>false</default>
+        <label>Santa Maria ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Santa Rosa ISD</fullName>
+        <default>false</default>
+        <label>Santa Rosa ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Schertz-Cibolo-Universal City ISD</fullName>
+        <default>false</default>
+        <label>Schertz-Cibolo-Universal City ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Shallowater ISD</fullName>
+        <default>false</default>
+        <label>Shallowater ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Sharyland ISD</fullName>
+        <default>false</default>
+        <label>Sharyland ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Sheldon ISD</fullName>
+        <default>false</default>
+        <label>Sheldon ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Slaton ISD</fullName>
+        <default>false</default>
+        <label>Slaton ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Smithville ISD</fullName>
+        <default>false</default>
+        <label>Smithville ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Snyder ISD</fullName>
+        <default>false</default>
+        <label>Snyder ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Socorro ISD</fullName>
+        <default>false</default>
+        <label>Socorro ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>South San Antonio ISD</fullName>
+        <default>false</default>
+        <label>South San Antonio ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>South San ISD</fullName>
+        <default>false</default>
+        <label>South San ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Southwest ISD</fullName>
+        <default>false</default>
+        <label>Southwest ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Southwest School</fullName>
+        <default>false</default>
+        <label>Southwest School</label>
+    </customValue>
+    <customValue>
+        <fullName>Spring Branch ISD</fullName>
+        <default>false</default>
+        <label>Spring Branch ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Spring ISD</fullName>
+        <default>false</default>
+        <label>Spring ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Stockdale ISD</fullName>
+        <default>false</default>
+        <label>Stockdale ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Sweeny ISD</fullName>
+        <default>false</default>
+        <label>Sweeny ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Texans Can Academies</fullName>
+        <default>false</default>
+        <label>Texans Can Academies</label>
+    </customValue>
+    <customValue>
+        <fullName>Texas City ISD</fullName>
+        <default>false</default>
+        <label>Texas City ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Texas College Preparatory Academies</fullName>
+        <default>false</default>
+        <label>Texas College Preparatory Academies</label>
+    </customValue>
+    <customValue>
+        <fullName>Texas Empowerment Academy</fullName>
+        <default>false</default>
+        <label>Texas Empowerment Academy</label>
+    </customValue>
+    <customValue>
+        <fullName>Tomball ISD</fullName>
+        <default>false</default>
+        <label>Tomball ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Tulia ISD</fullName>
+        <default>false</default>
+        <label>Tulia ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Tyler ISD</fullName>
+        <default>false</default>
+        <label>Tyler ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>United ISD</fullName>
+        <default>false</default>
+        <label>United ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Uvalde ISD</fullName>
+        <default>false</default>
+        <label>Uvalde ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Valley Mills ISD</fullName>
+        <default>false</default>
+        <label>Valley Mills ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Victoria ISD</fullName>
+        <default>false</default>
+        <label>Victoria ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Waco ISD</fullName>
+        <default>false</default>
+        <label>Waco ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Waxahachie Faith Family Academy</fullName>
+        <default>false</default>
+        <label>Waxahachie Faith Family Academy</label>
+    </customValue>
+    <customValue>
+        <fullName>Webb CISD</fullName>
+        <default>false</default>
+        <label>Webb CISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Weslaco ISD</fullName>
+        <default>false</default>
+        <label>Weslaco ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>West Rusk ISD</fullName>
+        <default>false</default>
+        <label>West Rusk ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Whitney ISD</fullName>
+        <default>false</default>
+        <label>Whitney ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Wichita Falls ISD</fullName>
+        <default>false</default>
+        <label>Wichita Falls ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Winters ISD</fullName>
+        <default>false</default>
+        <label>Winters ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Wortham ISD</fullName>
+        <default>false</default>
+        <label>Wortham ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Wylie ISD (Collin County)</fullName>
+        <default>false</default>
+        <label>Wylie ISD (Collin County)</label>
+    </customValue>
+    <customValue>
+        <fullName>YES Prep Public Schools Inc.</fullName>
+        <default>false</default>
+        <label>YES Prep Public Schools Inc.</label>
+    </customValue>
+    <customValue>
+        <fullName>Ysleta ISD</fullName>
+        <default>false</default>
+        <label>Ysleta ISD</label>
+    </customValue>
+    <customValue>
+        <fullName>Kerens ISD</fullName>
+        <default>false</default>
+        <label>Kerens ISD</label>
+    </customValue>
+    <masterLabel>School District</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>
