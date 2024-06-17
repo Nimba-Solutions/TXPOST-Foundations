@@ -1,0 +1,23 @@
+name: Upload Beta Release
+
+on:
+  pull_request:
+    branches:
+      - "main"
+
+jobs:
+  upload-beta:
+    uses: Nimba-Solutions/standard-workflows/.github/workflows/beta-unlocked.yml@main
+    secrets:
+      dev-hub-auth-url: ${{ secrets.DEV_HUB_AUTH_URL }}
+    with:
+      cumulusci-version: "3.78.0"
+      org-name: "dev"
+
+  install-beta:
+    needs: upload-beta
+    uses: Nimba-Solutions/standard-workflows/.github/workflows/install-beta.yml@main
+    secrets:
+      beta-org-auth-url: ${{ secrets.BETA_ORG_AUTH_URL }}
+    with:
+      cumulusci-version: "3.78.0"

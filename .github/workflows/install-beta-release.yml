@@ -1,0 +1,25 @@
+name: Install Beta Release
+
+on:
+  workflow_call:
+    inputs:
+      beta-org-auth-url:
+        required: true
+        type: string
+      org-name:
+        required: true
+        type: string
+        default: beta
+      cumulusci-version:
+        required: false
+        type: string
+      flow-name:
+        required: true
+        type: string
+
+jobs:
+    install-beta:
+        uses: Nimba-Solutions/standard-workflows/.github/workflows/install-beta.yml@main
+        with:
+            beta-org-auth-url: ${{ inputs.beta-org-auth-url }}
+            cumulusci-version: ${{ inputs.cumulusci-version }}
