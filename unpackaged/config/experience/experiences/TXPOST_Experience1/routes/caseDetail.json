@@ -1,9 +1,0 @@
-{
-  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
-  "id" : "042acc7d-d9fc-4404-bb3a-b7b32ac69d28",
-  "label" : "Case Detail",
-  "pageAccess" : "UseParent",
-  "routeType" : "detail-500",
-  "type" : "route",
-  "urlPrefix" : "case"
-}

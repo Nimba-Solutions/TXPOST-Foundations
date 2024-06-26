@@ -1,9 +1,0 @@
-{
-  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
-  "id" : "b91b7f8a-add8-4984-9fa9-41596042a161",
-  "label" : "Flow",
-  "pageAccess" : "UseParent",
-  "routeType" : "flow",
-  "type" : "route",
-  "urlPrefix" : "flow"
-}

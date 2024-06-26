@@ -1,9 +1,0 @@
-{
-  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
-  "id" : "ada20cea-658b-4990-9894-ad2afe499a1f",
-  "label" : "File Detail",
-  "pageAccess" : "UseParent",
-  "routeType" : "detail-069",
-  "type" : "route",
-  "urlPrefix" : "contentdocument"
-}

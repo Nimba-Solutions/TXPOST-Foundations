@@ -1,9 +1,0 @@
-{
-  "appPageId" : "a408f468-f831-48ca-89f8-6c85e6742ae8",
-  "id" : "9b55d3e2-3e67-46dd-bf64-82f1aa0b7c9e",
-  "label" : "Account Management",
-  "pageAccess" : "UseParent",
-  "routeType" : "account-management",
-  "type" : "route",
-  "urlPrefix" : "account-management"
-}
